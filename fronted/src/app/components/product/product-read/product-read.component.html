@@ -1,1 +1,5 @@
-<p>product-read works!</p>
+<ul>
+    <li *ngFor="let product of products">
+        <strong>ID:</strong> {{ product.id }} <strong>Nome:</strong> {{ product.name }}
+    </li>
+</ul>

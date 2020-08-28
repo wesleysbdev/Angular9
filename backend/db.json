@@ -29,6 +29,21 @@
       "name": "Caneta BIC 3 cores",
       "price": "9.50",
       "id": 7
+    },
+    {
+      "name": "Tesoura sem ponta",
+      "price": "2.50",
+      "id": 8
+    },
+    {
+      "name": "Tesoura com ponta",
+      "price": "7.50",
+      "id": 9
+    },
+    {
+      "name": "Borracha",
+      "price": "0.75",
+      "id": 10
     }
   ]
 }
